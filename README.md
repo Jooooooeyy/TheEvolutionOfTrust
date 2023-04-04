@@ -9,11 +9,13 @@ use netlogo to simulate game the Evolution of Trust, exploring some topics of tr
 
 
 TheEvolutionOfTrust.nlogo: 
+
 bacis version, player can not distinguish each other
 
 基础版本，各游戏玩家无法互相识别
 
 TheEvolutionOfTrustPlus.nlogo:
+
 update version, player can react based on the other one's breed
 
 升级版本，玩家可以根据对方的种类来行动
